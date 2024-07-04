@@ -16,7 +16,8 @@ Your task is to find which requests regressed and also the approximate time of i
 
 Please also include:
 * Instructions on how execute your application. Bear in mind it may not be a technology we are familiar with.
-* Any comments to explain your thinking. 
+* Any comments to explain your thinking.
+* Focus on making your code readable. It's more difficult to assess a task like this if it's hard to understand what the code is doing.
 
 # Github usernames
 - [terrybrown](https://github.com/terrybrown)
