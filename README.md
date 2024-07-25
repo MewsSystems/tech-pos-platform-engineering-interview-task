@@ -21,5 +21,4 @@ Please also include:
 
 # Github usernames
 - [terrybrown](https://github.com/terrybrown)
-- [schafric](https://github.com/schafric)
 - [philjhale](https://github.com/philjhale)
