@@ -1,4 +1,4 @@
-# Mews - Platform engineering team interview task
+# Mews - AWS DevOps interview task
 
 Please complete and return this technical test before attending your interview at Mews. This isn't something we would like you to spend a long time on, roughly 2-3 hours. You can give us the results in any way that makes sense to you. If sharing a GitHub repository, please make it private and grant access to the GitHub usernames at the bottom of the page.
 
@@ -14,12 +14,15 @@ Each line contains the endpoint name and the request duration. Several deploymen
 
 Your task is to find which requests regressed and also the approximate time of it with a 5 minute tolerance. Write some code that reads in `logs.txt` and outputs the name of the endpoints that regressed and the time when it approximately happened. Use any programming language you feel comfortable with.
 
+The expectation is to assume the AWS domain, so feel free to rely on CloudWatch, Lambda or whatever AWS service you might find usable.
+
 Please also include:
 * Instructions on how execute your application. Bear in mind it may not be a technology we are familiar with.
 * Any comments to explain your thinking.
 * Focus on making your code readable. It's more difficult to assess a task like this if it's hard to understand what the code is doing.
 
 # GitHub usernames
+
 - [toncid](https://github.com/toncid)
 - [michal-gondar-mews](https://github.com/michal-gondar-mews)
 - [terrybrown](https://github.com/terrybrown)
