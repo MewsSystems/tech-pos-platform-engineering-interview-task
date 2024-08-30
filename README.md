@@ -8,7 +8,7 @@ Your response to this technical assessment will be used to start a technical dis
 
 You are given a file containing JSON data about requests on production for some time interval. Here is an example log line:
 
-`{"TimeStamp":"2021-08-26T13:00:01.584","Endpoint":"/api/reservations/add","StatusCode":200,"Duration":470}`
+`{"TimeStamp":"2024-08-30T13:00:01.584","Endpoint":"/api/invoices/add","StatusCode":200,"Duration":470}`
 
 Each line contains the endpoint name and the request duration. Several deployments happened in the given interval with bugs that made some endpoints slower (regressed).
 
@@ -19,6 +19,8 @@ Please also include:
 * Any comments to explain your thinking.
 * Focus on making your code readable. It's more difficult to assess a task like this if it's hard to understand what the code is doing.
 
-# Github usernames
+# GitHub usernames
+- [toncid](https://github.com/toncid)
+- [michal-gondar-mews](https://github.com/michal-gondar-mews)
 - [terrybrown](https://github.com/terrybrown)
 - [philjhale](https://github.com/philjhale)
