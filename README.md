@@ -14,7 +14,7 @@ Each line contains the endpoint name and the request duration. Several deploymen
 
 Your task is to find which requests regressed and also the approximate time of it with a 5 minute tolerance. Write some code that reads in `logs.txt` and outputs the name of the endpoints that regressed and the time when it approximately happened. Use any programming language you feel comfortable with.
 
-The expectation is to assume the AWS domain, so feel free to rely on CloudWatch, Lambda or whatever AWS service you might find usable.
+The expectation is to assume the AWS domain, so feel free to rely on CloudWatch, Lambda or any other AWS service you might find usable.
 
 Please also include:
 * Instructions on how execute your application. Bear in mind it may not be a technology we are familiar with.
